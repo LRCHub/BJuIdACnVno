@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヒトリシズカ",
+  "base_artist": "幽閉サテライト、senya",
+  "createdAt": "2026-03-24T10:29:38.962420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒトリシズカ",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/01_ヒトリシズカ_幽閉サテライト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒトリシズカ",
+      "artist": "Yuuhei Satellite",
+      "has_synced": true,
+      "path": "select/02_ヒトリシズカ_Yuuhei_Satellite.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒトリシズカ",
+      "artist": "senya",
+      "has_synced": true,
+      "path": "select/03_ヒトリシズカ_senya.lrc"
+    }
+  ]
+}
